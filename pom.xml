@@ -7,8 +7,6 @@
   <version>1.0-SNAPSHOT</version>
   <name>Demo Maven Webapp</name>
   <url>https://github.com/tongueroo/demo-java</url>
-  <distributionManagement>
-    
   <build>
     <finalName>demo</finalName>
     <sourceDirectory>src</sourceDirectory>
