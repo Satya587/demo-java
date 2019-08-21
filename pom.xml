@@ -8,11 +8,7 @@
   <name>Demo Maven Webapp</name>
   <url>https://github.com/tongueroo/demo-java</url>
   <distributionManagement>
-    <snapshotRepository>
-        <id>InternalSnapshots</id>
-        <name>Internal Snapshots</name>
-        <url>http://18.212.165.219:8081/nexus/content/repositories/snapshots/</url>
-    </snapshotRepository>
+    
   <build>
     <finalName>demo</finalName>
     <sourceDirectory>src</sourceDirectory>
